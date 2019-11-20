@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/main.c4772372df677e338ec2.bundle.js",
+    "main.js.map": "/main.c4772372df677e338ec2.bundle.js.map",
+    "runtime~main.js": "/runtime~main.c4772372df677e338ec2.bundle.js",
+    "runtime~main.js.map": "/runtime~main.c4772372df677e338ec2.bundle.js.map",
+    "vendors~main.css": "/vendors~main.css",
+    "vendors~main.js": "/vendors~main.c4772372df677e338ec2.bundle.js",
+    "vendors~main.css.map": "/vendors~main.css.map",
+    "vendors~main.js.map": "/vendors~main.c4772372df677e338ec2.bundle.js.map",
+    "iframe.html": "/iframe.html",
+    "precache-manifest.94ff353104baf9cf7a07ca207d9e95e0.js": "/precache-manifest.94ff353104baf9cf7a07ca207d9e95e0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/employee1.svg": "/static/media/employee1.efe01b90.svg",
+    "static/media/employee2.svg": "/static/media/employee2.28498c4f.svg",
+    "static/media/employee3.svg": "/static/media/employee3.a01f134c.svg",
+    "static/media/good-face.svg": "/static/media/good-face.adb49148.svg",
+    "static/media/half_star.png": "/static/media/half_star.013b08bc.png",
+    "static/media/star.png": "/static/media/star.4a22ff1d.png"
+  },
+  "entrypoints": [
+    "runtime~main.c4772372df677e338ec2.bundle.js",
+    "vendors~main.css",
+    "vendors~main.c4772372df677e338ec2.bundle.js",
+    "main.c4772372df677e338ec2.bundle.js"
+  ]
+}
